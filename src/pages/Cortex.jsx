@@ -67,7 +67,7 @@ export default function Cortex() {
                 </h1>
 
                 <p className="mt-3 text-paper/90 text-lg sm:text-xl font-medium">
-                  Exploring Ideas at the Core of STEM
+                  Exploring the Core Ideas of STEM
                 </p>
               </div>
             </div>
